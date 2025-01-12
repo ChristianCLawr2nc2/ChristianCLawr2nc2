@@ -15,6 +15,7 @@
 ##
 
 <p align="left">Olá, sou o Christian, gosto de aprender coisas novas e caso sinta um interesse em me aprofundar um pouco, também tenho uma peculiaridade em ter uma coleção de LEGOs e foi por ter descoberto essa paixão quando criança que tive um fator facilitador para a escolha do meu curso de graduação.</p>
+<p align="left">O github do meu buddy Daniel é esse: https://github.com/DaniloMartinsMerlo
 
 ##
 
